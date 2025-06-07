@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Rohitt028  
+- 👀 I’m interested in VLSI Design, Digital Systems, and Embedded Electronics  
+- 🌱 I’m currently learning Verilog, FPGA development, and building real-time digital projects  
+- 💞️ I’m looking to collaborate on hardware design projects, open-source VLSI tools, or FPGA-based systems  
+- 📫 How to reach me: rohitt.itware@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love turning complex hardware problems into simple RTL logic!
